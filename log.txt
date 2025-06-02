@@ -1,0 +1,757 @@
+City Image Download Log
+========================
+
+✅ Banyuasin: Image saved to downloaded_images\Banyuasin_Landmark.jpg
+✅ Dogiyai: Image saved to downloaded_images\Dogiyai_Landmark.jpg
+✅ Dumai: Image saved to downloaded_images\Dumai_Landmark.jpg
+✅ Paniai: Image saved to downloaded_images\Paniai_Landmark.jpg
+❌ Cilegon: Error - HTTP Error 403: Forbidden
+✅ Malaka: Image saved to downloaded_images\Malaka_Landmark.jpg
+✅ Sumba: Image saved to downloaded_images\Sumba_Landmark.jpg
+✅ Seruyan: Image saved to downloaded_images\Seruyan_Landmark.jpg
+✅ Toli Toli: Image saved to downloaded_images\Toli_Toli_Landmark.jpg
+✅ Buton Tengah: Image saved to downloaded_images\Buton_Tengah_Landmark.jpg
+❌ Melawi: Error - HTTP Error 403: Forbidden
+✅ Jayapura: Image saved to downloaded_images\Jayapura_Landmark.jpg
+✅ Timor Tengah Utara: Image saved to downloaded_images\Timor_Tengah_Utara_Landmark.jpg
+✅ Musi Rawas Utara: Image saved to downloaded_images\Musi_Rawas_Utara_Landmark.jpg
+✅ Buton Utara: Image saved to downloaded_images\Buton_Utara_Landmark.jpg
+✅ Sijunjung: Image saved to downloaded_images\Sijunjung_Landmark.jpg
+✅ Lanny Jaya: Image saved to downloaded_images\Lanny_Jaya_Landmark.jpg
+✅ Bau-Bau: Image saved to downloaded_images\Bau-Bau_Landmark.jpg
+❌ Cikarang: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Bolaang Mongondow: Image saved to downloaded_images\Bolaang_Mongondow_Landmark.jpg
+✅ Tongging: Image saved to downloaded_images\Tongging_Landmark.jpg
+✅ Singkawang: Image saved to downloaded_images\Singkawang_Landmark.jpg
+❌ Wonosobo: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Bengkayang Regency: Image saved to downloaded_images\Bengkayang_Regency_Landmark.jpg
+✅ Pamekasan: Image saved to downloaded_images\Pamekasan_Landmark.jpg
+✅ Pinrang: Image saved to downloaded_images\Pinrang_Landmark.jpg
+✅ Murung Raya: Image saved to downloaded_images\Murung_Raya_Landmark.jpg
+✅ Majalengka: Image saved to downloaded_images\Majalengka_Landmark.jpg
+✅ Serdang Bedagai: Image saved to downloaded_images\Serdang_Bedagai_Landmark.jpg
+❌ Cirebon: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Lubuk Linggau: Image saved to downloaded_images\Lubuk_Linggau_Landmark.jpg
+✅ Dharmasraya: Image saved to downloaded_images\Dharmasraya_Landmark.jpg
+❌ Supiori: Error - HTTP Error 403: Forbidden
+✅ Kab Timor Tengah Selatan: Image saved to downloaded_images\Kab_Timor_Tengah_Selatan_Landmark.jpg
+✅ Balikpapan: Image saved to downloaded_images\Balikpapan_Landmark.jpg
+❌ Ngada: Error - HTTP Error 406: Not Acceptable
+❌ Batu Bara: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+❌ Banjarnegara: Error - <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1002)>
+✅ Majene: Image saved to downloaded_images\Majene_Landmark.jpg
+✅ Pulang Pisau: Image saved to downloaded_images\Pulang_Pisau_Landmark.jpg
+❌ Intan Jaya: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Toba Samosir: Image saved to downloaded_images\Toba_Samosir_Landmark.jpg
+✅ Lombok Tengah: Image saved to downloaded_images\Lombok_Tengah_Landmark.jpg
+✅ Buol: Image saved to downloaded_images\Buol_Landmark.jpg
+✅ Kupang: Image saved to downloaded_images\Kupang_Landmark.jpg
+✅ Alor: Image saved to downloaded_images\Alor_Landmark.jpg
+❌ Tarutung: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Maluku Tenggara: Image saved to downloaded_images\Maluku_Tenggara_Landmark.jpg
+✅ Konawe Selatan: Image saved to downloaded_images\Konawe_Selatan_Landmark.jpg
+✅ Ketapang: Image saved to downloaded_images\Ketapang_Landmark.jpg
+✅ Hulu Sungai Utara: Image saved to downloaded_images\Hulu_Sungai_Utara_Landmark.jpg
+✅ Padang Lawas Utara: Image saved to downloaded_images\Padang_Lawas_Utara_Landmark.jpg
+❌ Sabang: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+❌ Konawe Kepulauan: Error - HTTP Error 403: Forbidden
+✅ Sindereng Rappang: Image saved to downloaded_images\Sindereng_Rappang_Landmark.jpg
+✅ Maybrat: Image saved to downloaded_images\Maybrat_Landmark.jpg
+❌ Aceh: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Bulungan: Image saved to downloaded_images\Bulungan_Landmark.jpg
+✅ Sawahlunto: Image saved to downloaded_images\Sawahlunto_Landmark.jpg
+✅ Labuhan Batu Selatan: Image saved to downloaded_images\Labuhan_Batu_Selatan_Landmark.jpg
+✅ Pasaman: Image saved to downloaded_images\Pasaman_Landmark.jpg
+✅ Simalungun: Image saved to downloaded_images\Simalungun_Landmark.jpg
+✅ Pontianak: Image saved to downloaded_images\Pontianak_Landmark.jpg
+✅ Empat Lawang: Image saved to downloaded_images\Empat_Lawang_Landmark.jpg
+✅ Pematang Siantar: Image saved to downloaded_images\Pematang_Siantar_Landmark.jpg
+✅ Maluku Tengah: Image saved to downloaded_images\Maluku_Tengah_Landmark.jpg
+✅ Sumba Barat Daya: Image saved to downloaded_images\Sumba_Barat_Daya_Landmark.jpg
+✅ Demak: Image saved to downloaded_images\Demak_Landmark.jpg
+✅ Pangkep: Image saved to downloaded_images\Pangkep_Landmark.jpg
+✅ Sambas: Image saved to downloaded_images\Sambas_Landmark.jpg
+✅ Konawe: Image saved to downloaded_images\Konawe_Landmark.jpg
+✅ Merauke: Image saved to downloaded_images\Merauke_Landmark.jpg
+✅ Tual: Image saved to downloaded_images\Tual_Landmark.jpg
+✅ Bangka: Image saved to downloaded_images\Bangka_Landmark.jpg
+✅ Halmahera Tengah: Image saved to downloaded_images\Halmahera_Tengah_Landmark.jpg
+✅ Rejang Lebong: Image saved to downloaded_images\Rejang_Lebong_Landmark.jpg
+✅ Palu: Image saved to downloaded_images\Palu_Landmark.jpg
+✅ Sleman: Image saved to downloaded_images\Sleman_Landmark.jpg
+✅ Pangkajene Kepulauan: Image saved to downloaded_images\Pangkajene_Kepulauan_Landmark.jpg
+❌ Tana Tidung: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Bima: Image saved to downloaded_images\Bima_Landmark.jpg
+✅ Asahan: Image saved to downloaded_images\Asahan_Landmark.jpg
+✅ Sumbawa: Image saved to downloaded_images\Sumbawa_Landmark.jpg
+✅ Purworejo: Image saved to downloaded_images\Purworejo_Landmark.jpg
+✅ Way Kanan: Image saved to downloaded_images\Way_Kanan_Landmark.jpg
+❌ Pesisir Barat: Error - HTTP Error 403: Forbidden
+✅ Barru: Image saved to downloaded_images\Barru_Landmark.jpg
+✅ Kepulauan Meranti: Image saved to downloaded_images\Kepulauan_Meranti_Landmark.jpg
+✅ Takalar: Image saved to downloaded_images\Takalar_Landmark.jpg
+✅ Sukoharjo: Image saved to downloaded_images\Sukoharjo_Landmark.jpg
+✅ Labuhanbatu Selatan: Image saved to downloaded_images\Labuhanbatu_Selatan_Landmark.jpg
+✅ Kolaka Timur: Image saved to downloaded_images\Kolaka_Timur_Landmark.jpg
+✅ Pakpak Bharat: Image saved to downloaded_images\Pakpak_Bharat_Landmark.jpg
+✅ Fak Fak: Image saved to downloaded_images\Fak_Fak_Landmark.jpg
+❌ Kabupaten Poso: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Banggai Kepulauan: Image saved to downloaded_images\Banggai_Kepulauan_Landmark.jpg
+✅ Mamuju Tengah: Image saved to downloaded_images\Mamuju_Tengah_Landmark.jpg
+✅ Seluma: Image saved to downloaded_images\Seluma_Landmark.jpg
+✅ Seram Bagian Barat: Image saved to downloaded_images\Seram_Bagian_Barat_Landmark.jpg
+✅ Buton: Image saved to downloaded_images\Buton_Landmark.jpg
+✅ Luwu Utara: Image saved to downloaded_images\Luwu_Utara_Landmark.jpg
+❌ Halmahera Barat: Error - HTTP Error 403: Forbidden
+✅ Tuban: Image saved to downloaded_images\Tuban_Landmark.jpg
+✅ Banyuwangi: Image saved to downloaded_images\Banyuwangi_Landmark.jpg
+❌ Tabalong: Error - HTTP Error 403: Forbidden
+✅ Sarmi: Image saved to downloaded_images\Sarmi_Landmark.jpg
+✅ Gunung Mas: Image saved to downloaded_images\Gunung_Mas_Landmark.jpg
+✅ Palangkaraya: Image saved to downloaded_images\Palangkaraya_Landmark.jpg
+✅ Wakatobi: Image saved to downloaded_images\Wakatobi_Landmark.jpg
+✅ Lumajang: Image saved to downloaded_images\Lumajang_Landmark.jpg
+✅ Agam: Image saved to downloaded_images\Agam_Landmark.jpg
+✅ Nunukan Regency: Image saved to downloaded_images\Nunukan_Regency_Landmark.jpg
+✅ Sikka: Image saved to downloaded_images\Sikka_Landmark.jpg
+✅ Karo: Image saved to downloaded_images\Karo_Landmark.jpg
+✅ e: Image saved to downloaded_images\e_Landmark.jpg
+✅ Lamandau: Image saved to downloaded_images\Lamandau_Landmark.jpg
+❌ Labuhanbatu Utara: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+❌ Sumba Tengah: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Sumba Barat: Image saved to downloaded_images\Sumba_Barat_Landmark.jpg
+✅ Grobogan: Image saved to downloaded_images\Grobogan_Landmark.jpg
+❌ Balangan: Error - HTTP Error 403: Forbidden
+✅ Tomohon: Image saved to downloaded_images\Tomohon_Landmark.jpg
+✅ Kepulauan Anambas: Image saved to downloaded_images\Kepulauan_Anambas_Landmark.jpg
+❌ Tegal: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Lampung: Image saved to downloaded_images\Lampung_Landmark.jpg
+❌ Tambrauw: Error - HTTP Error 403: Forbidden
+✅ Blitar: Image saved to downloaded_images\Blitar_Landmark.jpg
+✅ Tapanuli Selatan: Image saved to downloaded_images\Tapanuli_Selatan_Landmark.jpg
+✅ Maros: Image saved to downloaded_images\Maros_Landmark.jpg
+✅ Bengkayang: Image saved to downloaded_images\Bengkayang_Landmark.jpg
+✅ Medan: Image saved to downloaded_images\Medan_Landmark.jpg
+✅ Bintan: Image saved to downloaded_images\Bintan_Landmark.jpg
+❌ Sabu Raijua: Error - HTTP Error 403: Forbidden
+✅ Maumere: Image saved to downloaded_images\Maumere_Landmark.jpg
+✅ Padang Panjang: Image saved to downloaded_images\Padang_Panjang_Landmark.jpg
+✅ Bener Meriah: Image saved to downloaded_images\Bener_Meriah_Landmark.jpg
+✅ Labuan Bajo: Image saved to downloaded_images\Labuan_Bajo_Landmark.jpg
+❌ Metro: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Mamuju: Image saved to downloaded_images\Mamuju_Landmark.jpg
+✅ Rembang: Image saved to downloaded_images\Rembang_Landmark.jpg
+✅ Batang: Image saved to downloaded_images\Batang_Landmark.jpg
+✅ Jayawijaya: Image saved to downloaded_images\Jayawijaya_Landmark.jpg
+✅ Kudus: Image saved to downloaded_images\Kudus_Landmark.jpg
+✅ Kepulauan Talaud: Image saved to downloaded_images\Kepulauan_Talaud_Landmark.jpg
+✅ Pasaman Barat: Image saved to downloaded_images\Pasaman_Barat_Landmark.jpg
+✅ Sumba Timur: Image saved to downloaded_images\Sumba_Timur_Landmark.jpg
+✅ Batam: Image saved to downloaded_images\Batam_Landmark.jpg
+❌ Trengggalek: Error - HTTP Error 403: Forbidden
+✅ Nias: Image saved to downloaded_images\Nias_Landmark.jpg
+✅ Tanah Laut: Image saved to downloaded_images\Tanah_Laut_Landmark.jpg
+✅ Kampar: Image saved to downloaded_images\Kampar_Landmark.jpg
+✅ Kotamobagu: Image saved to downloaded_images\Kotamobagu_Landmark.jpg
+✅ Polewali: Image saved to downloaded_images\Polewali_Landmark.jpg
+✅ Pagar alam: Image saved to downloaded_images\Pagar_alam_Landmark.jpg
+✅ Jakarta Selatan (not used): Image saved to downloaded_images\Jakarta_Selatan_(not_used)_Landmark.jpg
+✅ Pesawaran: Image saved to downloaded_images\Pesawaran_Landmark.jpg
+✅ Sinjai: Image saved to downloaded_images\Sinjai_Landmark.jpg
+✅ Tanjung Balai: Image saved to downloaded_images\Tanjung_Balai_Landmark.jpg
+✅ Garut: Image saved to downloaded_images\Garut_Landmark.jpg
+✅ Kayong Utara: Image saved to downloaded_images\Kayong_Utara_Landmark.jpg
+✅ Ogan Komering Ulu Timur: Image saved to downloaded_images\Ogan_Komering_Ulu_Timur_Landmark.jpg
+✅ Sampang: Image saved to downloaded_images\Sampang_Landmark.jpg
+✅ Pare Pare: Image saved to downloaded_images\Pare_Pare_Landmark.jpg
+❌ Kota Batu: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Banjar: Image saved to downloaded_images\Banjar_Landmark.jpg
+✅ Bugis: Image saved to downloaded_images\Bugis_Landmark.jpg
+✅ Tojo Una Una: Image saved to downloaded_images\Tojo_Una_Una_Landmark.jpg
+✅ Karimun: Image saved to downloaded_images\Karimun_Landmark.jpg
+✅ Bangkalan: Image saved to downloaded_images\Bangkalan_Landmark.jpg
+✅ Gunung Sitoli: Image saved to downloaded_images\Gunung_Sitoli_Landmark.jpg
+✅ Surabaya: Image saved to downloaded_images\Surabaya_Landmark.jpg
+✅ Purbalingga: Image saved to downloaded_images\Purbalingga_Landmark.jpg
+✅ Rote Ndao: Image saved to downloaded_images\Rote_Ndao_Landmark.jpg
+✅ Trenggalek: Image saved to downloaded_images\Trenggalek_Landmark.jpg
+✅ Humbang Hasundutan: Image saved to downloaded_images\Humbang_Hasundutan_Landmark.jpg
+✅ Yahukimo: Image saved to downloaded_images\Yahukimo_Landmark.jpg
+✅ Karanganyar: Image saved to downloaded_images\Karanganyar_Landmark.jpg
+❌ Palembang: Error - HTTP Error 403: Forbidden
+❌ Sigi: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Kepulauan Sula: Image saved to downloaded_images\Kepulauan_Sula_Landmark.jpg
+❌ Subang: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Solok Selatan: Image saved to downloaded_images\Solok_Selatan_Landmark.jpg
+✅ Pasuruan: Image saved to downloaded_images\Pasuruan_Landmark.jpg
+✅ Bojonegoro: Image saved to downloaded_images\Bojonegoro_Landmark.jpg
+❌ Jeneponto: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+❌ Ende: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+❌ Luwu Timur: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Kisaran: Image saved to downloaded_images\Kisaran_Landmark.jpg
+✅ Sanggau: Image saved to downloaded_images\Sanggau_Landmark.jpg
+❌ Bangko: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Landak: Image saved to downloaded_images\Landak_Landmark.jpg
+✅ Mukomuko: Image saved to downloaded_images\Mukomuko_Landmark.jpg
+✅ Jakarta: Image saved to downloaded_images\Jakarta_Landmark.jpg
+✅ Kaimana: Image saved to downloaded_images\Kaimana_Landmark.jpg
+✅ Sintang Regency: Image saved to downloaded_images\Sintang_Regency_Landmark.jpg
+✅ Klaten: Image saved to downloaded_images\Klaten_Landmark.jpg
+✅ Bolaang Mongondow Timur: Image saved to downloaded_images\Bolaang_Mongondow_Timur_Landmark.jpg
+✅ Gunung Kidul: Image saved to downloaded_images\Gunung_Kidul_Landmark.jpg
+❌ Kotawaringin Barat: Error - HTTP Error 403: Forbidden
+✅ Liwa: Image saved to downloaded_images\Liwa_Landmark.jpg
+✅ Paser: Image saved to downloaded_images\Paser_Landmark.jpg
+✅ Penukal Abab Lematang Ilir: Image saved to downloaded_images\Penukal_Abab_Lematang_Ilir_Landmark.jpg
+✅ Kepulauan Selayar: Image saved to downloaded_images\Kepulauan_Selayar_Landmark.jpg
+✅ Morowali Utara: Image saved to downloaded_images\Morowali_Utara_Landmark.jpg
+✅ Ogan Ilir: Image saved to downloaded_images\Ogan_Ilir_Landmark.jpg
+✅ Ponorogo: Image saved to downloaded_images\Ponorogo_Landmark.jpg
+✅ Gresik: Image saved to downloaded_images\Gresik_Landmark.jpg
+✅ Tanah Grogot: Image saved to downloaded_images\Tanah_Grogot_Landmark.jpg
+❌ Sibolga: Error - HTTP Error 403: Forbidden
+✅ Kapuas: Image saved to downloaded_images\Kapuas_Landmark.jpg
+✅ Sumedang: Image saved to downloaded_images\Sumedang_Landmark.jpg
+✅ Penajam Paser Utara: Image saved to downloaded_images\Penajam_Paser_Utara_Landmark.jpg
+✅ Enrekang: Image saved to downloaded_images\Enrekang_Landmark.jpg
+✅ Langsa: Image saved to downloaded_images\Langsa_Landmark.jpg
+✅ Solok: Image saved to downloaded_images\Solok_Landmark.jpg
+✅ Kutai Kartanegara: Image saved to downloaded_images\Kutai_Kartanegara_Landmark.jpg
+✅ Halmahera Utara: Image saved to downloaded_images\Halmahera_Utara_Landmark.jpg
+✅ Bukit Lawang: Image saved to downloaded_images\Bukit_Lawang_Landmark.jpg
+✅ Bulungan Regency: Image saved to downloaded_images\Bulungan_Regency_Landmark.jpg
+✅ Bengkalis: Image saved to downloaded_images\Bengkalis_Landmark.jpg
+❌ Muna Barat: Error - HTTP Error 403: Forbidden
+✅ Kutai Timur: Image saved to downloaded_images\Kutai_Timur_Landmark.jpg
+✅ Madiun: Image saved to downloaded_images\Madiun_Landmark.jpg
+✅ Bangka Selatan: Image saved to downloaded_images\Bangka_Selatan_Landmark.jpg
+❌ Kuantan Singingi: Error - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0040FC03+61635]
+	GetHandleVerifier [0x0040FC44+61700]
+	(No symbol) [0x002305D3]
+	(No symbol) [0x0027899E]
+	(No symbol) [0x00278D3B]
+	(No symbol) [0x002C0E12]
+	(No symbol) [0x0029D2E4]
+	(No symbol) [0x002BE61B]
+	(No symbol) [0x0029D096]
+	(No symbol) [0x0026C840]
+	(No symbol) [0x0026D6A4]
+	GetHandleVerifier [0x00694523+2701795]
+	GetHandleVerifier [0x0068FCA6+2683238]
+	GetHandleVerifier [0x006AA9EE+2793134]
+	GetHandleVerifier [0x004268C5+155013]
+	GetHandleVerifier [0x0042CFAD+181357]
+	GetHandleVerifier [0x00417458+92440]
+	GetHandleVerifier [0x00417600+92864]
+	GetHandleVerifier [0x00401FF0+5296]
+	BaseThreadInitThunk [0x76165D49+25]
+	RtlInitializeExceptionChain [0x7771CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7771CE91+561]
+
+✅ Manado: Image saved to downloaded_images\Manado_Landmark.jpg
